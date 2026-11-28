@@ -5,7 +5,9 @@
   </picture>
 </p>
 <p align="center"> 
+  
   ![Downloads](https://img.shields.io/github/downloads/x-bnc/xbnc/total) 
+  
 </p>
 
 <p align="center"><b>Modern, open source software for IRC.</b></p>
