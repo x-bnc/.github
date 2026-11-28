@@ -4,11 +4,6 @@
     <img src="https://raw.githubusercontent.com/x-bnc/xbnc/main/docs/images/logo-xbnc-dark.png" alt="xBNC" width="360">
   </picture>
 </p>
-<p align="center"> 
-  
-  ![Downloads](https://img.shields.io/github/downloads/x-bnc/xbnc/total) 
-  
-</p>
 
 <p align="center"><b>Modern, open source software for IRC.</b></p>
 
